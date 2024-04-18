@@ -1,5 +1,5 @@
 HOW TO USE: First, make sure that all the files are in the same folder. If you just want to test out the code, keep the .json file in there as it will bypass the web scraping portion of the code. 
-            If you would like to use the code in its entirety including the web scraping portion of it, delete the .json file before you start, but noteed that the code will take around 10 minutes to run in this way.
+            If you would like to use the code in its entirety including the web scraping portion of it, delete the .json file before you start, but note that the code will take around 10 minutes to run in this way.
             The html file is there for a preview of the code's results.
             This code makes use of the following libraries: pathlib, plotly, numpy, bs4, requests_html, re, urllib.request, alive_progress, json.
             When you're ready to run the program, run diy_data_science.py.
